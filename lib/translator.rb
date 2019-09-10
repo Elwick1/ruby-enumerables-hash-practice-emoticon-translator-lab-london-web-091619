@@ -1,4 +1,4 @@
-require 'ymal' 
+ 'ymal' 
 
 def load_library
   # code goes here
